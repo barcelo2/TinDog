@@ -1,2 +1,1 @@
-# TinDog
-tinder per gossos
+TinDog Starting Files
